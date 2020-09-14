@@ -13,3 +13,6 @@ With the idea of PCA & Changepoint Detection, we detected three market regimes (
 
 ### result
 Our cumulative 20-year return is 310%, which beats our benchmark that having equally weighted naive approach (165%).
+
+
+### Note: code is partially shown. Only the part programmed by Ran is posted, the rest part is hidden to protect other group members' work.
